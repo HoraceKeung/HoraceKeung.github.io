@@ -11,7 +11,7 @@
     "9": "Name",
     "10": "Email",
     "11": "Message",
-    "12": "SEND",
+    "12": "Send",
     "13": "Drag and drop the circle menu to one of the positions",
     "14": "DONE",
     "15": "Hello",
@@ -24,5 +24,13 @@
     "22": "Confirm",
     "23": "Hello World! How are you today?",
     "24": "Welcome! Please have a look around!",
-    "25": "You can navigate around via the circle menu."
+    "25": "You can navigate around via the circle menu.",
+    "26": "Theme colour can be changed from the Option page.",
+    "27": "Read more",
+    "28": "Back",
+    "29": "Search",
+    "30": "Cancel",
+    "31": "software",
+    "32": "art",
+    "33": "Search by title or tag (e.g. #2D)"
 }
